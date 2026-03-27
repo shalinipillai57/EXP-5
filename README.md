@@ -33,7 +33,7 @@ OBSERVATIONS:
 REGULATION CHARACTERISTICS:
 ![img](ex5-3.jpeg)
 OUTPUT:
-![img](ex52.jpeg)
+![img](exp5ot.jpeg)
 
 PRECAUTIONS:
 
